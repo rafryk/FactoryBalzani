@@ -1,0 +1,7 @@
+C:\Users\LORENZO.MALFERRARI\Desktop\Balzani recupero teoria\FactoryExample\FactoryExample\obj\Debug\FactoryExample.csprojResolveAssemblyReference.cache
+C:\Users\LORENZO.MALFERRARI\Desktop\Balzani recupero teoria\FactoryExample\FactoryExample\obj\Debug\FactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\LORENZO.MALFERRARI\Desktop\Balzani recupero teoria\FactoryExample\FactoryExample\bin\Debug\FactoryExample.exe.config
+C:\Users\LORENZO.MALFERRARI\Desktop\Balzani recupero teoria\FactoryExample\FactoryExample\bin\Debug\FactoryExample.exe
+C:\Users\LORENZO.MALFERRARI\Desktop\Balzani recupero teoria\FactoryExample\FactoryExample\bin\Debug\FactoryExample.pdb
+C:\Users\LORENZO.MALFERRARI\Desktop\Balzani recupero teoria\FactoryExample\FactoryExample\obj\Debug\FactoryExample.exe
+C:\Users\LORENZO.MALFERRARI\Desktop\Balzani recupero teoria\FactoryExample\FactoryExample\obj\Debug\FactoryExample.pdb
